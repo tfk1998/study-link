@@ -6,3 +6,4 @@
 |  阮一峰js | https://www.ruanyifeng.com/blog/javascript/ |
 | 语雀  | https://www.yuque.com/cuggz/interview/pkg93q |
 | MDN  | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide |
+| vue官网文档  | https://cn.vuejs.org/ |
