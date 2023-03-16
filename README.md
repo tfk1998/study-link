@@ -7,4 +7,4 @@
 | 语雀  | https://www.yuque.com/cuggz/interview/pkg93q |
 | MDN  | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide |
 | vue官网文档  | https://cn.vuejs.org/ |
-| 代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
+| JS代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
