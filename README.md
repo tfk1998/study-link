@@ -8,3 +8,4 @@
 | MDN  | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide |
 | vue官网文档  | https://cn.vuejs.org/ |
 | JS代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
+| JS代码风格  |https://github.com/airbnb/javascript|
