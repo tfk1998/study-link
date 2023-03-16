@@ -9,6 +9,7 @@
 | vue官网文档  | https://cn.vuejs.org/ |
 | JS代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
 | JS代码风格  |https://github.com/airbnb/javascript|
-
+|  阮一峰TypeScript  |http://ts.xcatliu.com/|
+|  详细TypeScript教程  |https://juejin.cn/post/6872111128135073806|
 
 
