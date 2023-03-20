@@ -8,7 +8,6 @@
 | 阮一峰js | https://www.ruanyifeng.com/blog/javascript/ |
 | 语雀  | https://www.yuque.com/cuggz/interview/pkg93q |
 | MDN  | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide |
-| vue官网文档  | https://cn.vuejs.org/ |
 | JS代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
 | JS代码风格  |https://github.com/airbnb/javascript|
 | webpack文章  |https://juejin.cn/post/6961961165656326152|
@@ -25,6 +24,7 @@
 
 
 ### Vue
+| vue官网文档  | https://cn.vuejs.org/ |
 
 ### React
 
