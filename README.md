@@ -17,10 +17,13 @@
 |  ----  | ----  |
 | 阮一峰TypeScript  |http://ts.xcatliu.com/|
 | 详细TypeScript教程  |https://juejin.cn/post/6872111128135073806|
+
+
 ### Css
 |  名称   | 链接  |
 |  ----  | ----  |
-
+|    王鹏飞 css     |https://pengfeixc.com/tutorial/css/introduction|
+|   learn css   |https://web.dev/learn/css/inheritance/|
 
 ### Vue
 |  名称   | 链接  |
