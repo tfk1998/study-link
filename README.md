@@ -7,7 +7,7 @@
 | echarts案例  | http://www.mincharts.com/ |
 | 阮一峰js | https://www.ruanyifeng.com/blog/javascript/ |
 | 语雀  | https://www.yuque.com/cuggz/interview/pkg93q |
-| MDN  | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide |
+| MDN js  | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide |
 | JS代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
 | JS代码风格  |https://github.com/airbnb/javascript|
 | WebGL | https://webglfundamentals.org/webgl/lessons/zh_cn/|
