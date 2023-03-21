@@ -33,4 +33,5 @@
 ### Webpack
 |  名称   | 链接  |
 |  ----  | ----  |
-| webpack文章  |https://juejin.cn/post/6961961165656326152|
+| webpack中文文档|https://webpack.docschina.org/concepts/|
+| webpack掘金文章  |https://juejin.cn/post/6961961165656326152|
