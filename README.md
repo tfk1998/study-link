@@ -35,7 +35,7 @@
 ### React
 |  名称   | 链接  |
 |  ----  | ----  |
-|React中文社区|https://react.bootcss.com/|
+|React中文文档|https://react.bootcss.com/|
 
 
 ### Webpack
