@@ -11,7 +11,7 @@
 | JS代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
 | JS代码风格  |https://github.com/airbnb/javascript|
 | WebGL | https://webglfundamentals.org/webgl/lessons/zh_cn/|
-
+|JavaScript设计模式-掘金|https://juejin.cn/post/6844904032826294286|
 ### TypeScript
 |  名称   | 链接  |
 |  ----  | ----  |
