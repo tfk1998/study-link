@@ -4,13 +4,11 @@
 |  名称   | 链接  |
 |  ----  | ----  |
 | 交互原则  | https://juejin.cn/post/6844903784544469005 |
-| echarts案例  | http://www.mincharts.com/ |
 | 阮一峰js | https://www.ruanyifeng.com/blog/javascript/ |
 | 语雀  | https://www.yuque.com/cuggz/interview/pkg93q |
 | MDN js  | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide |
 | JS代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
 | JS代码风格  |https://github.com/airbnb/javascript|
-| WebGL | https://webglfundamentals.org/webgl/lessons/zh_cn/|
 |JavaScript设计模式-掘金|https://juejin.cn/post/6844904032826294286|
 
 ### TypeScript
@@ -45,3 +43,9 @@
 |  ----  | ----  |
 | webpack中文文档|https://webpack.docschina.org/concepts/|
 | webpack掘金文章  |https://juejin.cn/post/6961961165656326152|
+
+### 可视化
+|  名称   | 链接  |
+|  ----  | ----  |
+| echarts案例  | http://www.mincharts.com/ |
+| WebGL | https://webglfundamentals.org/webgl/lessons/zh_cn/|
