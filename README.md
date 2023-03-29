@@ -10,6 +10,8 @@
 | JS代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
 | JS代码风格  |https://github.com/airbnb/javascript|
 |JavaScript设计模式-掘金|https://juejin.cn/post/6844904032826294286|
+|JS速查表|https://htmlcheatsheet.com/js/|
+
 
 ### TypeScript
 |  名称   | 链接  |
