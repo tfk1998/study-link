@@ -26,7 +26,7 @@
 |    王鹏飞 css     |https://pengfeixc.com/tutorial/css/introduction|
 |   learn css   |https://web.dev/learn/css/inheritance/|
 | 缓动函数|https://easings.net/en#|
-| 动画库|https://animate.style/|
+| css动画库|https://animate.style/|
 
 ### Vue
 |  名称   | 链接  |
