@@ -38,7 +38,7 @@
 ### React
 |  名称   | 链接  |
 |  ----  | ----  |
-|React中文文档|https://react.bootcss.com/|
+|React中文文档 |https://react.bootcss.com/|
 |React中文网 |http://reactjs.org.cn/|
 |React源码解析|https://react.jokcy.me/|
 |React字典|https://devhints.io/react|
