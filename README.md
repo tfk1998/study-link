@@ -8,7 +8,7 @@
 | 语雀  | https://www.yuque.com/cuggz/interview/pkg93q |
 | MDN js  | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide |
 | JS代码简洁  |https://github.com/ryanmcdermott/clean-code-javascript|
-| JS代码风格  |https://github.com/airbnb/javascript|
+| JS代码风格  |https://github.com/airbnb/javascript |
 |JavaScript设计模式（掘金优秀文章）|https://juejin.cn/post/6844904032826294286|
 |JS速查表|https://htmlcheatsheet.com/js/|
 
