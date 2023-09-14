@@ -27,6 +27,7 @@
 |   learn css   |https://web.dev/learn/css/inheritance/ |
 | 缓动函数|https://easings.net/en# |
 | css动画库|https://animate.style/|
+| 快速构建UICSS库|https://tailwind.nodejs.cn/|
 
 ### Vue
 |  名称   | 链接  |
